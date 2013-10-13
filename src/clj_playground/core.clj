@@ -1,4 +1,5 @@
 (ns clj-playground.core
+  (:gen-class)
   (:require  [clj-http.client :as client])
   (:require  [cheshire.core :refer :all]))
 
