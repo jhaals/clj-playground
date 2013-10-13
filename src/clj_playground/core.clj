@@ -10,5 +10,5 @@
            (:body (client/get "https://pugme.herokuapp.com/random"))
            true)))
 
-(defn main []
+(defn -main []
   (println (pug)))
