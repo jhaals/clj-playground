@@ -6,5 +6,5 @@
   :dependencies  [[org.clojure/clojure "1.5.1"]
                   [clj-http "0.7.7"]
                   [cheshire "5.2.0"]]
-  :main clj-playground.core/main
+  :main clj-playground.core
   :aot :all)
